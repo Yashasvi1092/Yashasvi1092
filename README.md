@@ -29,24 +29,14 @@ I thrive on exploring **offensive and defensive security techniques**, mastering
 ### 💻 Programming & Scripting:
 - Python (for automation & exploit development)
 - Bash & PowerShell scripting
-- C++, JavaScript (Security-focused applications)
+- C++ (Security-focused applications)
 
 ### ☁️ Cloud & DevSecOps:
 - AWS Security, Cloud Pentesting
 - Docker, Kubernetes Security
 - CI/CD Pipeline Security
 
-### 🔎 Digital Forensics & Incident Response:
-- Memory & Disk Forensics (Autopsy, Volatility)
-- Log Analysis & SIEM (Splunk, ELK Stack)
 
----
-
-## 📜 Certifications
-- ✅ Certified Ethical Hacker (CEH) 
-- ✅ Managing Network Security (coursera)
-- ✅ Malware Analysis and Introduction to Assembly Language (coursera)
----
 
 
 
