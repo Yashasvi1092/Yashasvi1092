@@ -31,12 +31,11 @@ I thrive on exploring **offensive and defensive security techniques**, mastering
 - Bash & PowerShell scripting
 - C++ (Security-focused applications)
 
-### ☁️ Cloud & DevSecOps:
-- AWS Security, Cloud Pentesting
-- Docker, Kubernetes Security
-- CI/CD Pipeline Security
-
-
+## 📜 Certifications
+- ✅ Certified Ethical Hacker (CEH) 
+- ✅ Managing Network Security (coursera)
+- ✅ Malware Analysis and Introduction to Assembly Language (coursera)
+---
 
 
 
